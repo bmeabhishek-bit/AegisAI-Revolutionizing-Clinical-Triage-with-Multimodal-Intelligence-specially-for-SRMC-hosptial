@@ -1,0 +1,808 @@
+[
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "Medium"
+    },
+    "id": "lcq5qzjgn",
+    "timestamp": "2026-02-15T09:38:10.238Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "ckr64wf11",
+    "timestamp": "2026-02-15T09:37:57.855Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 4 for demo visualization.",
+    "id": "6j6tncwtr",
+    "timestamp": "2026-02-15T09:37:49.745Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "fjstczpjt",
+    "timestamp": "2026-02-15T09:37:22.581Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "ak77befzm",
+    "timestamp": "2026-02-15T09:37:13.620Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 1 for demo visualization.",
+    "id": "rs7rpxsos",
+    "timestamp": "2026-02-15T09:37:05.311Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "06i7sxvuc",
+    "timestamp": "2026-02-15T09:06:53.905Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "rkklbnqz8",
+    "timestamp": "2026-02-15T09:06:47.266Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 2 for demo visualization.",
+    "id": "krhoo7mra",
+    "timestamp": "2026-02-15T09:06:45.953Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "hwz45c7ap",
+    "timestamp": "2026-02-15T09:06:40.300Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "sderepyve",
+    "timestamp": "2026-02-15T09:06:38.061Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 3 for demo visualization.",
+    "id": "kio5b20gh",
+    "timestamp": "2026-02-15T09:06:34.708Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "yu32abe4d",
+    "timestamp": "2026-02-15T09:06:23.468Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "dqbhtx7qw",
+    "timestamp": "2026-02-15T09:06:14.773Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 1 for demo visualization.",
+    "id": "nf2pu70e6",
+    "timestamp": "2026-02-15T09:06:11.474Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "81knmmo3a",
+    "timestamp": "2026-02-15T08:59:45.535Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "n4rnpdql1",
+    "timestamp": "2026-02-15T08:59:14.965Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "d3wciuy4p",
+    "timestamp": "2026-02-15T08:59:14.740Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 1 for demo visualization.",
+    "id": "pepcxc948",
+    "timestamp": "2026-02-15T08:59:14.094Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "z50la0ztj",
+    "timestamp": "2026-02-15T08:59:08.150Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "zxgqepck9",
+    "timestamp": "2026-02-15T08:59:07.747Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "k4kls7zgo",
+    "timestamp": "2026-02-15T08:59:00.148Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "ysgnsxt3w",
+    "timestamp": "2026-02-15T08:58:55.988Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "qic19wrnd",
+    "timestamp": "2026-02-15T08:58:49.869Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 3 for demo visualization.",
+    "id": "ndbqn5trm",
+    "timestamp": "2026-02-15T08:58:49.249Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "9ywmgq2kx",
+    "timestamp": "2026-02-15T08:49:37.366Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "23i7mk0ju",
+    "timestamp": "2026-02-15T08:49:29.117Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 3 for demo visualization.",
+    "id": "iwfo3v62a",
+    "timestamp": "2026-02-15T08:49:28.480Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "Low"
+    },
+    "id": "sftje1yl3",
+    "timestamp": "2026-02-15T08:46:44.978Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "k2jcooz32",
+    "timestamp": "2026-02-15T08:46:39.401Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 4 for demo visualization.",
+    "id": "lbju719x1",
+    "timestamp": "2026-02-15T08:46:38.215Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "sltx0u71h",
+    "timestamp": "2026-02-15T08:46:22.393Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "b3wlto7z1",
+    "timestamp": "2026-02-15T08:46:16.514Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 2 for demo visualization.",
+    "id": "fued7oele",
+    "timestamp": "2026-02-15T08:46:13.547Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "i9d4joxmo",
+    "timestamp": "2026-02-15T08:44:45.521Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "kntm6b8gm",
+    "timestamp": "2026-02-15T08:44:36.492Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 1 for demo visualization.",
+    "id": "s1431qu88",
+    "timestamp": "2026-02-15T08:44:35.124Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "1egsqy5tj",
+    "timestamp": "2026-02-15T08:29:51.111Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "ti17lzfza",
+    "timestamp": "2026-02-15T08:29:39.948Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 1 for demo visualization.",
+    "id": "962sacfqv",
+    "timestamp": "2026-02-15T08:29:38.309Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "kheb0102k",
+    "timestamp": "2026-02-15T08:29:37.926Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "dnwd47tfc",
+    "timestamp": "2026-02-15T08:29:28.365Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 2 for demo visualization.",
+    "id": "ata79h1qe",
+    "timestamp": "2026-02-15T08:29:26.765Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "p1abvs46n",
+    "timestamp": "2026-02-15T08:29:16.011Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "dqyq95l8v",
+    "timestamp": "2026-02-15T08:29:07.378Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "t3lpmiivp",
+    "timestamp": "2026-02-15T08:29:05.061Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "s17ctq3oj",
+    "timestamp": "2026-02-15T08:28:56.894Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 2 for demo visualization.",
+    "id": "hj4jsuyek",
+    "timestamp": "2026-02-15T08:28:55.644Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "Low"
+    },
+    "id": "7ktd22yus",
+    "timestamp": "2026-02-15T08:27:00.740Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "1hh47vn78",
+    "timestamp": "2026-02-15T08:26:53.461Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 2 for demo visualization.",
+    "id": "pl54xqfff",
+    "timestamp": "2026-02-15T08:26:51.160Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "Low"
+    },
+    "id": "2nhmmecjk",
+    "timestamp": "2026-02-15T08:26:32.340Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "9he9pallb",
+    "timestamp": "2026-02-15T08:26:23.072Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 2 for demo visualization.",
+    "id": "2yqa10s5t",
+    "timestamp": "2026-02-15T08:26:20.515Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "Low"
+    },
+    "id": "unob02b1g",
+    "timestamp": "2026-02-15T08:25:53.773Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "wktchakzd",
+    "timestamp": "2026-02-15T08:25:45.339Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend standby. Serving Scenario 2 for demo visualization.",
+    "id": "rb2mrxgcq",
+    "timestamp": "2026-02-15T08:25:38.886Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "High"
+    },
+    "id": "c1daox88y",
+    "timestamp": "2026-02-15T08:17:26.777Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "14w57gm04",
+    "timestamp": "2026-02-15T08:17:13.413Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:parse-doc",
+    "message": "Backend connection standby. High-Risk simulation activated for demo.",
+    "id": "3vpurq264",
+    "timestamp": "2026-02-15T08:17:07.580Z"
+  },
+  {
+    "level": "error",
+    "source": "API:parse-doc",
+    "message": "Parsing failure: fetch failed",
+    "id": "l54nq8l5m",
+    "timestamp": "2026-02-15T08:13:55.479Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {
+      "riskLevel": "Low"
+    },
+    "id": "4zz3hapjy",
+    "timestamp": "2026-02-15T07:14:31.318Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "qgd7t01yr",
+    "timestamp": "2026-02-15T07:14:16.001Z"
+  },
+  {
+    "level": "error",
+    "source": "API:parse-doc",
+    "message": "Parsing failure: fetch failed",
+    "id": "a7eddndur",
+    "timestamp": "2026-02-15T07:13:57.635Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Python backend",
+    "data": {
+      "riskLevel": "Low"
+    },
+    "id": "u7dtdda4v",
+    "timestamp": "2026-02-15T04:25:17.041Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/webp"
+    },
+    "id": "70zunspxt",
+    "timestamp": "2026-02-15T04:25:05.751Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "hm2hbhyoc",
+    "timestamp": "2026-02-15T02:46:53.358Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "8b4xzk6vp",
+    "timestamp": "2026-02-15T02:44:48.443Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "lkl791ydl",
+    "timestamp": "2026-02-15T02:41:44.250Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "06nh6ah6b",
+    "timestamp": "2026-02-15T02:38:28.857Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Python backend",
+    "data": {
+      "riskLevel": "Low"
+    },
+    "id": "un1vv1usi",
+    "timestamp": "2026-02-15T01:47:43.513Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "lmeipyb9o",
+    "timestamp": "2026-02-14T18:13:13.126Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Python backend",
+    "data": {
+      "riskLevel": "Medium"
+    },
+    "id": "wwdypf0fj",
+    "timestamp": "2026-02-14T18:10:04.941Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/webp"
+    },
+    "id": "x78d0tvgu",
+    "timestamp": "2026-02-14T18:09:38.842Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/webp"
+    },
+    "id": "zb5t5svhq",
+    "timestamp": "2026-02-14T18:01:01.645Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "i0pmnt559",
+    "timestamp": "2026-02-14T18:00:23.685Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "69r3jdzy4",
+    "timestamp": "2026-02-14T18:00:03.613Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "zc3kgc9no",
+    "timestamp": "2026-02-14T17:56:01.033Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "z32p7demg",
+    "timestamp": "2026-02-14T17:52:49.381Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "3p4k2tdzw",
+    "timestamp": "2026-02-14T17:50:23.108Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "8qlob9gf2",
+    "timestamp": "2026-02-14T17:48:42.641Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document parsed via Python backend",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "b3nb1y7ar",
+    "timestamp": "2026-02-14T17:45:55.209Z"
+  },
+  {
+    "level": "error",
+    "source": "API:parse-doc",
+    "message": "Parsing failure reported by Gemini: Gemini Extraction Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "6varej3dr",
+    "timestamp": "2026-02-14T17:42:40.854Z"
+  },
+  {
+    "level": "error",
+    "source": "API:parse-doc",
+    "message": "Parsing failure reported by Gemini: Gemini Extraction Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "3ou3ckcv5",
+    "timestamp": "2026-02-14T17:42:29.692Z"
+  },
+  {
+    "level": "error",
+    "source": "API:parse-doc",
+    "message": "Parsing failure reported by Gemini: Gemini Extraction Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [404 Not Found] models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "data": {
+      "mimeType": "image/png"
+    },
+    "id": "p9iqras87",
+    "timestamp": "2026-02-14T17:40:27.983Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {},
+    "id": "asbehoeft",
+    "timestamp": "2026-02-14T17:38:11.717Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "1el0n93he",
+    "timestamp": "2026-02-14T17:38:11.372Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document successfully parsed",
+    "data": {
+      "mimeType": "image/png",
+      "hasError": true
+    },
+    "id": "fd2k78lyp",
+    "timestamp": "2026-02-14T17:37:43.546Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {},
+    "id": "lu7fal5gm",
+    "timestamp": "2026-02-14T17:35:36.992Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "yttuo2mzv",
+    "timestamp": "2026-02-14T17:35:36.851Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {},
+    "id": "7m4gbupe0",
+    "timestamp": "2026-02-14T17:35:33.227Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "i4a0r8ped",
+    "timestamp": "2026-02-14T17:35:32.529Z"
+  },
+  {
+    "level": "info",
+    "source": "API:triage",
+    "message": "Triage processed by Gemini engine",
+    "data": {},
+    "id": "qvuguhb24",
+    "timestamp": "2026-02-14T17:34:59.245Z"
+  },
+  {
+    "level": "warn",
+    "source": "API:triage",
+    "message": "Python backend unreachable, falling back to Gemini",
+    "id": "9r6a4iur2",
+    "timestamp": "2026-02-14T17:34:58.888Z"
+  },
+  {
+    "level": "info",
+    "source": "API:parse-doc",
+    "message": "Document successfully parsed",
+    "data": {
+      "mimeType": "image/webp",
+      "hasError": true
+    },
+    "id": "24prh7pm9",
+    "timestamp": "2026-02-14T17:34:21.662Z"
+  }
+]
